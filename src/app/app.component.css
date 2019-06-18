@@ -1,0 +1,9 @@
+.myCards {
+    display: flex;
+    flex-wrap: wrap;
+}
+/* .myCards  div {
+
+    width: 30%;
+    height: 30%;
+} */
